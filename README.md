@@ -1,1 +1,1 @@
-# datatabase_for_slim
+# database for annotation on slim
