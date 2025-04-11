@@ -1,1 +1,1 @@
-# pr2_vsearch_on_slim
+# datatabase_for_slim
